@@ -1,5 +1,7 @@
 package Lab4;
 
+import java.util.Date;
+
 /**
  * CIS 233J Lab 4: Add Features and Open Pull Request
  *
@@ -10,5 +12,6 @@ package Lab4;
 public class Lab4 {
     public static void main(String args[]) {
         System.out.println("Hello, World!");
+        System.out.println(new Date());
     }
 }
